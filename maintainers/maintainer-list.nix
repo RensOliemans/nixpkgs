@@ -25190,6 +25190,12 @@
     githubId = 79577742;
     name = "ren";
   };
+  rensoliemans = {
+    name = "Rens Oliemans";
+    email = "hallo@rensoliemans.nl";
+    github = "rensoliemans";
+    githubId = 16014817;
+  };
   renzo = {
     email = "renzocarbonara@gmail.com";
     github = "k0001";
